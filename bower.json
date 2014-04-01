@@ -9,7 +9,6 @@
     "composer.json",
     "test",
     "build",
-    "src",
     "build.xml"
   ]
 }
